@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300;700&family=Poppins:wght@100;400;600;700;800;900&display=swap');
+*{
+    font-family: 'Playpen Sans', cursive;
+}
+.name{
+    font-size: 124px;
+    margin: 0;
+    padding: 0;
+}
+.info{
+    color: red;
+}
+.para-info{
+    color: orange;
+}
+img{
+    background-color: #fdb20f93;
+    width: 40px;
+    height: 40px;
+    margin: 10px 10px;
+}
